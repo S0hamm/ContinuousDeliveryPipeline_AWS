@@ -1,3 +1,3 @@
 # Shell Scripting
 First repo to start basics
-Testing phase
+This is a Repo to practice shell scripts
